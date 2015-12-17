@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">JusteJava</string>
+
+    <string name="hello_world">Bonjour le monde!</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="Name">
+        Tapez votre nom </string>
+    <string name="whipped_cream">Crème fouettée</string>
+    <string name="chocolate">Chocolat</string>
+    <string name="sprinkles">Sprinkles</string>
+    <string name="cream">Crème</string>
+    <string name="toppings">Garnitures</string>
+    <string name="quantity">Quantité</string>
+    <string name="order">
+        Commande</string>
+    <string name="cardnumber">
+        Numéro de carte</string>
+    <string name="expiration">
+        Date d'expiration</string>
+
+</resources>
+
+

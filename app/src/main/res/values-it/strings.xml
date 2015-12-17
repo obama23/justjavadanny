@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">solo caffè</string>
+
+    <string name="hello_world">Ciao mondo!</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="Name">Digita il tuo nome qui</string>
+    <string name="whipped_cream">Panna Montata</string>
+    <string name="chocolate">Cioccolato</string>
+    <string name="sprinkles">Sprinkles</string>
+    <string name="cream">Crema</string>
+    <string name="toppings">Condimenti</string>
+    <string name="quantity">Quantità</string>
+    <string name="order">ordine</string>
+    <string name="cardnumber"> Numero di carta</string>
+    <string name="expiration">Data di scadenza</string>
+</resources>
+
+
